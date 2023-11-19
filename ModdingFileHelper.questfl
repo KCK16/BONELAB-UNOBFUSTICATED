@@ -1,0 +1,49 @@
+MK_FP.scan_is = scanf
+fmod.table = 1.1;
+void vector2()
+{
+	Int1 = init;
+	bool start = true;
+	if (start == false)
+	{
+		Int1.init = false;
+	}
+}
+
+stop.ts
+queue;
+queue.NULL
+NULL = false;
+numeric_limits.1 = +2.0;
+
+keep = key_comp.KEYCODE_G;
+if (KEYCODE_G)
+{
+	stat.plus == pointer+1
+	pointer+1 = -1;
+	pointer.interColor = Color.red;
+	red = interColor;
+	stime = 0
+	sb_type+1;
+	MK_FP ?
+	? = 1
+	> = +1
+	< = -1
+	if (< = -1)
+	{
+		labs.int = >;
+		stop();
+	}
+	stop();
+}
+
+if (sscanf.LINK)
+{
+	vector2(end)
+	end = end*
+}
+
+stop()
+stop()
+stop()
+task.end();
